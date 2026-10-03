@@ -176,6 +176,12 @@ The project also demonstrates why multiple performance measures are useful when 
 * Star schema
 * ETL
 
+## Data Availability
+
+The dataset used in this project was provided for academic purposes and is not included in this repository.
+
+Screenshots of the Power BI dashboard and data model are included to demonstrate the analysis and visualization work.
+
 ## Project Type
 
 Individual academic project
